@@ -14,3 +14,17 @@ This repository contains all my HTML and CSS practice files from the early stage
 - Practiced Box Model  
 - Created `padding.html`
 
+  -------------------------------------
+|           Margin (Outer)          |
+|   ----------------------------    |
+|   |       Border Area         |   |
+|   |  -----------------------  |   |
+|   |  |   Padding Area      |  |   |
+|   |  |  -----------------  |  |   |
+|   |  |  |  Content Area |  |  |   |
+|   |  |  -----------------  |  |   |
+|   |  -----------------------  |   |
+|   ----------------------------    |
+-------------------------------------
+
+
