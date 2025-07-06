@@ -10,5 +10,21 @@ This repository contains all my HTML and CSS practice files from the early stage
 - Flexbox & Grid Layouts
 - Simple Web Page Layouts
 
-## 📁 Folder Structure
+### 📅 5 July 2025  
+- Practiced Box Model  
+- Created `padding.html`
+
+  -------------------------------------
+|           Margin (Outer)          |
+|   ----------------------------    |
+|   |       Border Area         |   |
+|   |  -----------------------  |   |
+|   |  |   Padding Area      |  |   |
+|   |  |  -----------------  |  |   |
+|   |  |  |  Content Area |  |  |   |
+|   |  |  -----------------  |  |   |
+|   |  -----------------------  |   |
+|   ----------------------------    |
+-------------------------------------
+
 
