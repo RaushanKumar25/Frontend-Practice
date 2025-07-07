@@ -37,7 +37,7 @@ The `display` property defines how an element is displayed on the page. Common v
 - `inline-block` – similar to inline but respects height/width
 - `none` – hides the element
 
-In `display.html`, I’ve shown examples of different display types with visual separation.
+In displayproperty.html, I’ve shown examples of different display types with visual separation.
 
 
 
