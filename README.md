@@ -28,3 +28,16 @@ This repository contains all my HTML and CSS practice files from the early stage
 -------------------------------------
 
 
+# 6 july 2025
+## 📤 Display Property in CSS
+The `display` property defines how an element is displayed on the page. Common values include:
+
+- `block` – starts on a new line and takes full width (e.g., `<div>`)
+- `inline` – sits inline with text (e.g., `<span>`)
+- `inline-block` – similar to inline but respects height/width
+- `none` – hides the element
+
+In displayproperty.html, I’ve shown examples of different display types with visual separation.
+
+
+
