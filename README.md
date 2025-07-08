@@ -71,9 +71,8 @@ I created a file called `relative-units.html` where I demonstrated:
 
 This learning helps me design layouts that look good on all screen sizes and devices.
 
-
+# 7th july 2025
 ## 📌 Position Property in CSS  
-📅 Date: 7 July 2025
 
 Today I explored one of the most powerful layout tools in CSS — the `position` property. This property allows you to control how elements are placed on the page in relation to their parent or the viewport.
 
