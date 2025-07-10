@@ -125,7 +125,11 @@ The `float` property in CSS is used to place an element to the left or right of 
 - Inside it, created a floating box (`.box`) using `float: left`
 - Styled the box using height, width, margin, and border
 
+-
+- # 10 july 2025
 - ### 🔹 CSS Float
+
+- 
 - Used `float: left` to align boxes horizontally
 - Realized why float is useful for image placement and simple layouting
 
