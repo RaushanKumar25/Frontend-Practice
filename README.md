@@ -125,5 +125,18 @@ The `float` property in CSS is used to place an element to the left or right of 
 - Inside it, created a floating box (`.box`) using `float: left`
 - Styled the box using height, width, margin, and border
 
+- ### 🔹 CSS Float
+- Used `float: left` to align boxes horizontally
+- Realized why float is useful for image placement and simple layouting
+
+### 🔹 Git Commit Editor (Vim)
+- Opened Vim via `git commit` without `-m`
+- Wrote message, saved with `:wq`
+
+---
+
+## 💡 Learning Reflection
+Even small actions like learning `:wq` in Git or using float layouts help build strong CSS and Git foundation. Today was a light but useful day.
+
 
 
