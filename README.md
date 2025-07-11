@@ -99,7 +99,48 @@ Today I explored one of the most powerful layout tools in CSS — the `position`
 
 Understanding positioning helps in creating navbars, modals, sidebars, and any element that needs precise placement. It’s essential for responsive layouts.
 
+# 9th july 2025
+# 🧊 CSS Float Property Demo  
+📅 Date: 8 July 2025
+
+This project demonstrates the use of the `float` property in CSS. The float property is used for positioning and formatting content — for example, letting elements float next to each other like in magazines or newspapers.
+
 ---
+
+## 📦 What is `float` in CSS?
+
+The `float` property in CSS is used to place an element to the left or right of its container, allowing text and inline elements to wrap around it.
+
+### 🧠 Float Values:
+- `left` – Element floats to the left
+- `right` – Element floats to the right
+- `none` – Default value (element does not float)
+- `inherit` – Inherits the float value from its parent
+
+---
+
+## 🛠️ What I Did
+
+- Created a container (`#container`) with a defined width and height
+- Inside it, created a floating box (`.box`) using `float: left`
+- Styled the box using height, width, margin, and border
+
+-
+- # 10 july 2025
+- ### 🔹 CSS Float
+
+- 
+- Used `float: left` to align boxes horizontally
+- Realized why float is useful for image placement and simple layouting
+
+### 🔹 Git Commit Editor (Vim)
+- Opened Vim via `git commit` without `-m`
+- Wrote message, saved with `:wq`
+
+---
+
+## 💡 Learning Reflection
+Even small actions like learning `:wq` in Git or using float layouts help build strong CSS and Git foundation. Today was a light but useful day.
 
 
 
