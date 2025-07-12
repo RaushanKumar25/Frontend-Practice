@@ -142,5 +142,37 @@ The `float` property in CSS is used to place an element to the left or right of 
 ## 💡 Learning Reflection
 Even small actions like learning `:wq` in Git or using float layouts help build strong CSS and Git foundation. Today was a light but useful day.
 
+# 12 july 2025
+Today, I practiced three important Flexbox properties in CSS that help build responsive and well-aligned layouts.
+
+---
+
+## 🧠 Topics Covered
+
+### 🔹 `justify-content`
+Defines how flex items are distributed **along the main axis** (horizontal by default).
+
+Examples:
+- `flex-start` – Items align to the left
+- `center` – Items are centered
+- `space-between`, `space-around`, `space-evenly` – Distribute items with spacing
+
+---
+
+### 🔹 `align-items`
+Controls how flex items align **along the cross axis** (vertical by default).
+
+Examples:
+- `flex-start` – Aligns items to top
+- `center` – Vertically centers them
+- `stretch` – Stretches items to fill container height
+
+---
+
+### 🔹 `flex-wrap`
+By default, flex items stay in one line. Using `flex-wrap: wrap`, items can move to the next line if needed — useful for responsiveness.
+
+---
+
 
 
