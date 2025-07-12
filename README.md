@@ -10,7 +10,8 @@ This repository contains all my HTML and CSS practice files from the early stage
 - Flexbox & Grid Layouts
 - Simple Web Page Layouts
 
-### 📅 5 July 2025  
+# 5 July 2025  
+
 - Practiced Box Model  
 - Created `padding.html`
 
@@ -72,6 +73,7 @@ I created a file called `relative-units.html` where I demonstrated:
 This learning helps me design layouts that look good on all screen sizes and devices.
 
 # 7th july 2025
+
 ## 📌 Position Property in CSS  
 
 Today I explored one of the most powerful layout tools in CSS — the `position` property. This property allows you to control how elements are placed on the page in relation to their parent or the viewport.
@@ -84,9 +86,7 @@ Today I explored one of the most powerful layout tools in CSS — the `position`
 - **fixed** – Positioned relative to the viewport. Stays in place when scrolling.
 - **sticky** – Switches between relative and fixed based on scroll position.
 
-### 📁 Files Created:
 
-- `position-demo.html` – Demonstrates all five position types with color-coded boxes and visual spacing examples.
 
 ### 🎯 Key Concepts Understood:
 
