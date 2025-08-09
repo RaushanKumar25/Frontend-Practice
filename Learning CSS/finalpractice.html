@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>practice set</title>
+    <style>
+        .progress-container {
+            width: 90%;
+            height: 25px;
+            background-color: gainsboro;
+            border: 2px solid black;
+            border-radius: 20px;
+            position: relative;
+            left: 4%;
+            
+        }
+        .progress-bar {
+            background-color: mediumorchid;
+            height: 100%;
+            border-radius: 20px;
+            animation: progress 3s ease-in-out 5s forwards;
+        }
+
+        @keyframes progress {
+            from{width: 0%}
+            to{width: 100%}
+        }
+
+       
+           
+    </style>
+</head>
+<body>
+    <div class="progress-container">
+        <div class="progress-bar"></div>
+    </div>
+</body>
+</html>
